@@ -69,7 +69,8 @@ This is a super imbalance dataset. Where 307511 rows and 122 columns.
 
 
 ## Future Works
-1.
-2. 
-3. 
-4. 
+1. Preprocess data individually like at first divide dataset into train, vali, and test then preprocess and feature engineering.  
+2. Use Cross Validation technique because data is totally imbalance.
+3. Use Hyperparameter tuning technique like Grid-Search, Random-Search, Bayesian-Optimization.
+4. Use Different Algorithms like Random Forest, Naive Bayes.
+5. Implement with Deep Learning. 
